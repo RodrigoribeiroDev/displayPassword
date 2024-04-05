@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(47, 97, 155);
+    padding: 5%;
+}
+button{
+    cursor: pointer;
+    border: 1px solid;
+    color: rgb(18, 19, 18);
+    background-color:rgb(108, 128, 74);
+    font-family: "Space Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    border: 2px solid;
+    width: 500px;
+    height: 400px;
+    left: 29%;
+}
+input{
+    border: 1px solid black;
+    width: 150px;
+    height: 30px;
+}
+
+h1{
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+    color: aliceblue;
+    font-size: 30px;
+}
